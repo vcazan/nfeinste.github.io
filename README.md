@@ -13,4 +13,4 @@ https://github.com/nfeinste/my-first-project/
 
 And, soon, you can see my customized homepage at:
 
-http://my-first-project.github.io/
+http://nfeinste.github.io/
