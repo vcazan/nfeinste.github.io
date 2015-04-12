@@ -1,0 +1,482 @@
+body{
+    background-image:url("http://img0.gtsstatic.com/wallpapers/84ede9f3ea9bc92307b6f53f15e65905_large.jpeg")no-repeat;compact;
+background-size:cover;
+
+}
+
+.ontop{
+    background: inherit;
+    height: auto;
+    position: fixed;
+    z-index: 10;
+}
+.header {
+    position: fixed;
+    width: 100%;
+    background: #222;
+}
+
+p1{
+    color:white;
+    font-family:cursive
+}
+.header .navbar-brand {
+    color:white;
+    font-family:cursive
+}
+
+.header .navbar {
+    margin: 0;
+    border: none;
+    
+}
+
+.page-section {
+    width: 100%;
+    /*border-bottom: 5px solid black;*/
+    min-height:710px;
+    border-bottom:2px solid black; /* preference color:  #FFFF75; */
+}
+
+.page-section h1{
+    color: #e0eff2;
+    font: italic bold 100px cursive, Serif;
+    text-shadow: -4px 3px 0 #0a0e27, -14px 7px 0 #0a0e27;
+    padding:40px;
+    margin-left:100px;
+    margin-top:50px;
+}
+
+.page-section h4{
+    color: #e0eff2;
+    font: italic bold 100px cursive, Serif;
+    text-shadow: -4px 3px 0 #0a0e27, -14px 7px 0 #0a0e27;
+    margin-left:200px;
+    margin-top:-70px;
+}
+
+div .col-md-11{
+    color:black;
+    background-color:black;
+    opacity:0.8;
+    margin:70px 50px 70px 50px;
+    background-color: black;
+    border: 1px solid white; /*back-up color #CC00FF;*/
+    height:500px;
+    font-family:courier;
+    border-radius:50px;
+    
+}
+
+.page-section h2 {
+    font-size: 2.8em;
+    font-weight: 900;
+    color: #fff;
+    text-shadow: 2px 2px 2px #000;
+    font-family:cursive;
+    margin-top:10px;
+    padding:20px;
+}
+
+.p{
+    background:white;
+    float:left;
+    padding:35px;
+    margin:0px 100px 0px 100px;
+    border:1px solid black;
+    border-radius:30px;
+}
+
+.resume{
+    margin-top:50px;
+    margin-left:50px;
+}
+
+a:visited {
+    color:purple;
+    
+   
+}
+
+
+.page-section p{
+    color:white;
+    font-weight:1em;
+    font-family:Courier New', monospace;
+    margin-left:50px;
+    margin-top:20px;
+    background-color: ;
+    border:1px solid black;
+}
+
+.page-section#Home {
+    background: url("https://jessicawatters.files.wordpress.com/2014/02/1535592_10152175201222430_301370266_n.jpg?w=1000&h=") no-repeat center fixed;
+    -webkit-background-size: cover;
+    font-family:cursive;
+}
+
+.page-section#Bio{
+    background:url("http://www.peterloung.com/musicmenu/Undone%20-%20Jessica%20Watters/top.png") no-repeat center fixed;
+    background-color:;
+    -webkit-background-size: cover;
+}
+
+.page-section#Events{
+    background:url("http://www.peterloung.com/musicmenu/Undone%20-%20Jessica%20Watters/top.png") no-repeat center fixed;
+    -webkit-background-size: cover;
+    background-color:
+
+}
+
+.page-section#photos{
+    background:url("http://www.peterloung.com/musicmenu/Undone%20-%20Jessica%20Watters/top.png") no-repeat center fixed;
+    -webkit-background-size: cover;
+    background-color:;
+}
+
+.page-section#contact{
+    background:url("https://scontent-b-lga.xx.fbcdn.net/hphotos-frc3/v/t1.0-9/1391568_10153357963110261_695318069_n.jpg?oh=ee4168935628a8a9c68e21ba6cbbcb55&oe=555D9B91") no-repeat center fixed;
+    -webkit-background-size: cover;
+    
+}
+
+
+@media (min-width: 768px) {
+    .header .navbar-brand {
+        padding-left: 0;
+    }
+    .navbar-nav {
+        float: right;
+    }
+}
+@media (max-width: 480px) {
+    .page-section h1 {
+        font-size: 3em;
+    }
+    .page-section h2 {
+        font-size: 2em;
+    }
+    .page-section p {
+        font-size: 1em;
+        margin: 0 0 20px;
+    }
+}
+
+div .transbox-contact{
+    opacity:0.8;
+    background-color:black;
+    border:2px solid white;
+    margin:0px 50px 50px 50px;
+    height:500px;
+    border-radius:20px;
+
+}
+
+.transbox-contact p{
+    height:500px;
+}
+
+
+
+.line{
+     border:1px solid white;
+     width:50%;
+     margin-left:190px;
+     
+}
+
+p2{
+    font-size: 1.8em;
+    font-weight: 900;
+    color: #fff;
+    text-shadow: 2px 2px 2px #000;
+    font-family:cursive;
+    padding:40px;
+    margin-left:150px;
+}
+
+img{
+    float:right;
+    padding:25px;
+    height:500px;
+    margin-right:100px;
+    border:10px solid #CC00FF;
+    position:inline-block;
+
+}
+
+
+div.transbox
+{
+    margin:0px 50px 50px 50px;
+    background-color:#504550;
+    border: 8px solid black; /*back-up color #CC00FF;*/
+    height:520px;
+    font-family:courier;
+    margin-top:20px;
+    opacity:0.9;
+    
+}
+
+
+
+div.transbox p
+{
+    margin: 5%;
+    font-weight: bold;
+    color: #ffffff;
+    float:left;
+}
+
+.resume{
+    padding:20px;
+    margin:auto;
+}
+
+.intro{
+    margin-left:100px;
+}
+
+.textbox{
+    background-color:white;
+    z-index:-1;
+
+}
+
+galleryItem {
+    color: #797478;
+    font: 10px/1.5 Verdana, Helvetica, sans-serif;
+    float: left;
+}
+
+.galleryItem h3 {
+    text-transform: uppercase;
+}
+
+.galleryItem img {
+    max-width: 100%;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+}
+.galleryItem {
+    color: #797478;
+    font: 10px/1.5 Verdana, Helvetica, sans-serif;
+    float: left;
+    
+    width: 16%;
+    margin:  2% 2% 50px 2%;
+}
+
+
+
+text{
+    color:white;
+    background:black;
+    border:white;
+    font-family:courier;
+    font-size:12px;
+}
+
+.col-md-4{
+    margin-left:50px;
+    margin-top:30px;
+    color:white;
+
+}
+
+.col-md-8{
+    margin-left:70px;
+    width:200px;
+    color:white;
+    background-color:black;
+   
+}
+
+.comment-box{
+    height:200px;
+}
+
+head-contact{
+    font-size:25px;
+    font-family:cursive;
+    
+}
+
+/* upcoming */
+
+.full-circle {
+    background-color: black;
+    border: 3px solid white;
+    height: 500px;
+    width: 500px;
+    -moz-border-radius:300px;
+    -webkit-border-radius: 300px;
+    position:inline-block;
+    opacity:0.8;
+    float:left;
+}
+
+.full-circle1 {
+    background-color: black;
+    border: 3px solid white;
+    height: 500px;
+    width: 500px;
+    -moz-border-radius:300px;
+    -webkit-border-radius: 300px;
+    position:inline-block;
+    opacity:0.8;
+    float:right;
+}
+
+.full-circle2 {
+    background-color:  black;
+    border: 3px solid white;
+    height: 500px;
+    width: 500px;
+    -moz-border-radius:300px;
+    -webkit-border-radius: 300px;
+    position:inline-block;
+    opacity:0.9;
+    margin-left:300px;
+
+}
+
+.middle-circle-p{
+    transform: rotate(-30deg);
+    font-size: 5em;
+    color: #fff;
+    text-shadow: 2px 2px 2px #000;
+    font-family:cursive;
+    margin-left:100px;
+    float:right;
+    margin-top:-400px;
+    
+}
+
+.circle-outside-right{
+    background:;
+    border:1px solid black;
+    font-family:Courier;
+    font-size:20px;
+    width:250px;
+    padding:20px;
+    margin-left:175px;
+    margin-top:60px;
+    color:white;
+
+}
+
+.circle-outside-left{
+    background:;
+    border:1px solid black;
+    font-family:Courier;
+    font-size:20px;
+    width:200px;
+    padding:20px;
+    margin-left:100px;
+    margin-top:75px;
+    color:white;
+    
+    
+}
+
+/* end upcoming */
+
+/*photo gallery*/
+
+.photo-box-right{
+    float:right;
+    background:black;
+    width:550px;
+    height:500px;
+    opacity:0.9;
+    border-radius:50px;
+    border:2px solid white;
+}
+
+.photo-box-left{
+    float:left;
+    background:black;
+    width:550px;
+    height:500px;
+    opacity:0.9;
+    border-radius:50px;
+    border:2px solid white;
+}
+
+ul li img {
+    cursor: pointer;
+    margin-top:30px;
+    margin-right:70px;
+}
+
+li{
+    list-style-type:none;
+}
+
+.modal-body {
+    background-color:black;
+    
+}
+.modal-content {
+    border-radius:0;
+    
+}
+.modal-dialog img {
+    text-align:center;
+    margin:0 auto;
+    background-color:black;
+    
+}
+.controls{
+    width:50px;
+    display:block;
+    font-size:12px;
+    font-weight:bold;
+    
+}
+.next {
+    float:right;
+    text-align:right;
+}
+
+.prev{
+    text-align:left;
+    float:left;
+}
+.photo-box-left p{
+    margin-left:180px;
+    font-family:Courier;
+    font-size: 18px;
+    
+    
+}
+
+.photo-box-right p{
+    margin-left:250px;
+    font-family:Courier;
+    font-size:18px;
+}
+
+
+/*end gallery*/
+.footer {
+    position:fixed;
+    bottom:0px;
+    width: 100%;
+    margin: 0;
+    background-color: #000;
+    height: 25px;/* or however high you would like */
+    color:white;
+    font-family:cursive;
+    font-size:15px;
+   
+}
+
+.footer p{
+    float:right;
+    margin-right:30px;
+}
+
+
