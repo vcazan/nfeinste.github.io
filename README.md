@@ -9,7 +9,7 @@ My Github user page is at:
 https://github.com/nfeinste/
 
 My Github Pages repo can be found at:  
-https://github.com/nfeinste/my-first-project/
+https://github.com/nfeinste/nfeinste.github.io.git
 
 And, soon, you can see my customized homepage at:
 
